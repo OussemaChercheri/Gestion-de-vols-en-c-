@@ -1,0 +1,17 @@
+| INFORMATIONS SUR LES BILLETS :
+
+Nom: Oussema Chercheri
+Adresse: 22011057
+Telephone: Tunis
+numero du Passport: 
+Origine: SFAX
+Destination: TUNIS
+Repas: Vegetarien
+Nombre de classe : 2
+Classe : Affaires
+Date de depart: 23072023
+Temps: 4.00 PM
+Ticket: HF980
+Facture(en dinars Tunisienne): 974/-
+
+|STATUT confirme
